@@ -1,16 +1,13 @@
-<p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
-</p>
-<p align="center">
-    7teen
-<p align="center">  
-<img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
-</p>
-    <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/779822314190536756.png"/>
-</p>
-<p align="center">
-Currently learning JavaScript
-<p align="center">
-    <a href="https://twitter.com/tripysleep">twitter</a>
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
+```diff
+
+@@Passionate programming student.@@
++ Living in Santa Catarina, Brazil 🇧🇷.
+- 1y years old
+! Speaker, community manager and shitposter
+# 📖 Programming languages, web development
+```
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fkkf4mwo7bywhmziuhe2mxarl&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
